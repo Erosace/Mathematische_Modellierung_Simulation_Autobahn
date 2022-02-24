@@ -1,5 +1,5 @@
 # Mathematische_Modellierung_Simulation_Autobahn
-Für das Ausführen der Simulation wird die Grafik Bibliothek graphics.py benötigt.
+Für das Ausführen der Simulation wird die Grafikbibliothek graphics.py benötigt.
 
 Der erste Teil der Simulation besteht aus der geschlossenen Fahrbahn:
 
