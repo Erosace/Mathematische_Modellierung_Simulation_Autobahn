@@ -11,4 +11,4 @@ Der erste Teil der Simulation besteht aus der geschlossenen Fahrbahn:
   - Durch wiederholtes Drücken von "p" geht man nur einen Zeitschritt vorwärt
 
 Der zweite Teil der Simulation funktioniert mit einer offenen Fahrbahn. Dabei hat sie die selben Eigenschaften, wie die Simulation zuvor.
-ACHTUNG: Hier auch die neue Graphikdatei verwenden.
+ACHTUNG: Hier auch die neue Grafikdatei verwenden.
